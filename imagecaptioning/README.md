@@ -86,7 +86,7 @@ Once entered into the main page of the web app you will find the option to regis
 
 ### Acknowledgements
 
-This project utilizes BLIP (Bootstrapping Language-Image Pre-training), an innovative model for unified vision-language understanding and generation. I extend my gratitude to the authors Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi for their significant contributions to the field of Computer Vision and Pattern Recognition. Their work has been instrumental in the development of this project.
+This project utilizes BLIP (Bootstrapping Language-Image Pre-training), an innovative model for unified vision-language understanding and generation.
 
 For more details on BLIP, please refer to their paper:
 
