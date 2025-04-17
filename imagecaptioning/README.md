@@ -1,13 +1,6 @@
-# PIXTALES: The Image Captioning app web
-
-<img src="https://raw.githubusercontent.com/Dani13vg/Image-Captioning-app-web/main/static/Pixtales.jpeg" alt="PIXTALES: The Image Captioning app web">
-
-> [!NOTE]
-> #### Video Demo: [Web App Presentation](https://clipchamp.com/watch/9LT1MF9s5bN)
-
 #### Description:
 
-PIXTALES is an innovative web application designed to revolutionize the way we interact with images. Utilizing cutting-edge AI and deep learning technologies, PIXTALES provides users with the unique ability to generate descriptive captions for their uploaded images.
+Image Captioning System is an innovative web application designed to revolutionize the way we interact with images. Utilizing cutting-edge AI and deep learning technologies, Image Captioning System provides users with the unique ability to generate descriptive captions for their uploaded images.
 
 ## Key Features:
 
@@ -96,11 +89,6 @@ Once entered into the main page of the web app you will find the option to regis
 This project utilizes BLIP (Bootstrapping Language-Image Pre-training), an innovative model for unified vision-language understanding and generation. I extend my gratitude to the authors Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi for their significant contributions to the field of Computer Vision and Pattern Recognition. Their work has been instrumental in the development of this project.
 
 For more details on BLIP, please refer to their paper:
-
-Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi. "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation." arXiv preprint arXiv:2201.12086 (2022). DOI: [10.48550/ARXIV.2201.12086](https://doi.org/10.48550/arxiv.2201.12086). URL: [https://arxiv.org/abs/2201.12086](https://arxiv.org/abs/2201.12086).
-
-
-I would also like to acknowledge the help of my friend Josep Arriaran for his contribution to the style of the web app thanks to his knowledge of css and Bootstrap tools; and his contribution for the testing of the app performance.
 
 ---
 
